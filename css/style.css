@@ -16,3 +16,8 @@
   left: 50%;
   float: left;
 }
+#navbar-container {
+  float: left;
+  width: 100%;
+  position: relative;
+}
