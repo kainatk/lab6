@@ -21,3 +21,9 @@
   width: 100%;
   position: relative;
 }
+#main-navbar ul li a {
+  display: block;
+  padding: 10px 20px;
+  color: #fff;
+  text-decoration: none;
+}
